@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-The dataset is an official Kaggle directory of Anime Images - (Kaggle Dataset)[https://www.kaggle.com/code/sachinrajput17/gans-for-anime-face-dataset/input]
+The dataset is an official Kaggle directory of Anime Images - [Kaggle Dataset](https://www.kaggle.com/code/sachinrajput17/gans-for-anime-face-dataset/input).
 
 ## Results
 
