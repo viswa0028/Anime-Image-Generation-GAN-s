@@ -35,7 +35,7 @@ Generated samples will be saved in the `samples/` directory during training. The
 
 ### Sample Generation Progress
 
-![Training Progress](assets/training_progress.png)
+![Training Progress](./gans.png)
 
 ## License
 
