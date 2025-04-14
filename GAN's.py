@@ -112,7 +112,7 @@ for epoch in range(20):
             print(f"Epoch [{epoch+1}/{num_epochs}], Step [{i+1}/{len(dataloader)}], "
                   f"D Loss: {d_loss.item():.4f}, G Loss: {g_loss.item():.4f}")
 
-print("✅ Training completed.")
+print("Training completed.")
 
 
 def denormalize(tensor):
